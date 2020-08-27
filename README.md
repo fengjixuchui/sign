@@ -3,7 +3,9 @@
 
 如果偶然间能给你带来灵感、思路，或是能够有所帮助，不胜欣喜。
 
-**随手给个star呐🌟🌟🌟。**
+所有的思路仅用于学习交流，请不要应用于非法用途。
+
+**随手给个star呐🌟🌟🌟🌟。**
 
 ## contact
 
@@ -28,3 +30,10 @@
 | com.android.benlailife.activity | 本来生活 | 5.7.1 |
 | com.hupu.games | 虎扑 | 7.5.10 |
 | com.moji.mjweather | 墨迹天气 | 8.0206.02 |
+| com.ttxg.fruitday | 天天果园 | 7.9.0 |
+| com.jiaoyinbrother.monkeyking | 悟空租车 | 5.3.9 |
+| com.hpbr.bosszhipin | BOSS直聘 | 8.060 |
+| com.jianzhiman.customer | 兼职侠 | 1.5.3 |
+| com.jianshu.haruki | 简书 | 4.24.1 |
+| com.dongqiudi.news | 懂球帝 | 7.3.6 |
+| com.guazi.newcar | 毛豆新车 | 3.2.7.0 |
